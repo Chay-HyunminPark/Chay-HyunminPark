@@ -1,4 +1,4 @@
-Hi👋, I'm Hyunmin Park, feel free to call me Chay. I'm a fourth-year undergraduate student at the University of Toronto, majoring in Mathematics and double minoring in Statistics and Economics. I'm interested in data analysis, particularly with health, crime, and economic data.
+Hi👋, I'm Chay Park. I'm a fourth-year undergraduate student at the University of Toronto, majoring in Mathematics and double minoring in Statistics and Economics. I'm interested in data science, particularly with health, crime, and economic data.
 
 - 🔭 I’m currently working on a project analyzing anxiety and depressive disorders in the US from 2020 to 2024.
 - 🌱 I’m currently learning French.
