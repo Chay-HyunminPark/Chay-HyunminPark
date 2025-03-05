@@ -1,6 +1,5 @@
 Hi👋, I'm Chay Park. I'm a fourth-year undergraduate student at the University of Toronto, majoring in Mathematics and double minoring in Statistics and Economics. I'm interested in data science, particularly with health, crime, and economic data.
 
-- 🔭 I’m currently working on a project analyzing anxiety and depressive disorders in the US from 2020 to 2024.
 - 🌱 I’m currently learning French.
 - 💬 Ask me about best dessert places and patisseries in Montreal.
 - 📫 How to reach me: LinkedIn, email
